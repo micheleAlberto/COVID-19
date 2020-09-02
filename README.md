@@ -1,4 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/micheleAlberto/COVID-19.git/master) binder as usual
+START HERE : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/micheleAlberto/COVID-19.git/master?filepath=assessment.ipynb)
+
 
 # COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
 
